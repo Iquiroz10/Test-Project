@@ -10,7 +10,7 @@ namespace Proyecto
     {
         static void Main()
         {
-
+            Console.WriteLine("Nuevo cambio para la clase ");
         }
     }
 }
