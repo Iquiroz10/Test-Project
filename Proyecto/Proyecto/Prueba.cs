@@ -11,12 +11,8 @@ namespace Proyecto
         static void Main()
         {
             Console.WriteLine("Mensaje 1");
-            Console.WriteLine("Prueba de control de versiones");            
-        }
-
-        public void ControlDeVersion()
-        {
-            Console.WriteLine("Manejo de versiones de GIT...");
+            Console.WriteLine("Prueba de control de versiones");
+            Console.WriteLine("Prueba de concurrencia");
         }
     }
 }
