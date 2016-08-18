@@ -1,0 +1,5 @@
+C:\_Projects\Temp\Test_Project\Test-Project\Proyecto\Proyecto\bin\Debug\Proyecto.dll
+C:\_Projects\Temp\Test_Project\Test-Project\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\_Projects\Temp\Test_Project\Test-Project\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\_Projects\Temp\Test_Project\Test-Project\Proyecto\Proyecto\obj\Debug\Proyecto.dll
+C:\_Projects\Temp\Test_Project\Test-Project\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
