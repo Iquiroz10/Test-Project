@@ -19,6 +19,8 @@ namespace Proyecto
             
             Console.WriteLine("Nuevo mensaje");
 
+            Console.WriteLine("Nuevo mensaje 2");
+
         }
     }
 
