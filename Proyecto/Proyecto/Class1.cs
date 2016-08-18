@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Proyecto
 {
-    public class Class1
+    public class Program
     {
+        static void Main()
+        {
+
+        }
     }
 }
