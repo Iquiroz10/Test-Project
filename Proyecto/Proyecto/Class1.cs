@@ -12,5 +12,13 @@ namespace Proyecto
         {
             Console.WriteLine("Nuevo cambio para la clase ");
         }
+
+        public void Mensaje()
+        {
+            Console.WriteLine("Git tutorial");
+
+        }
     }
+
+    
 }
