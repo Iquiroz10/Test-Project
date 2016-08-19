@@ -19,5 +19,10 @@ namespace Proyecto
         {
             Console.WriteLine("Controlador de Versiones");
         }
+
+        public void HolaMundo()
+        {
+            Console.WriteLine("Hola Mundo");
+        }
     }
 }
