@@ -14,5 +14,10 @@ namespace Proyecto
             Console.WriteLine("Prueba de control de versiones");
             Console.WriteLine("Prueba de concurrencia");
         }
+
+        public void MuestraEstado()
+        {
+            Console.WriteLine("Controlador de Versiones");
+        }
     }
 }
