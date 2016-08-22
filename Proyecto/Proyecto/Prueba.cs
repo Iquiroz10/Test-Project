@@ -24,5 +24,11 @@ namespace Proyecto
         {
             Console.WriteLine("Hola Mundo");
         }
+
+        public void Msj()
+        {
+            Console.WriteLine("msj");
+
+        }
     }
 }
