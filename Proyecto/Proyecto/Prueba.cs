@@ -27,7 +27,7 @@ namespace Proyecto
 
         public void Msj()
         {
-            Console.WriteLine("msj");
+            Console.WriteLine("Modificacíon de msj");
 
         }
     }
